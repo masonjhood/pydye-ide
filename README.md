@@ -1,6 +1,21 @@
-# Pydye IDE | Version 0.1
+# PyIDE | Version 1.0
 
-The Pydye IDE is a simple text-based IDE that is based on Python, for those who need something simple and fast, the Pydye IDE is the best option for you!
-We hope to add the ability to run Python Files in an upcoming update. 
+The PyIDE is a simple text-based IDE that is based on Python, for those who need something simple and fast, the Pydye IDE is the best option for you!
+You can open, save, and run python files using our IDE!
 
-Please check the releases page for the pydye-gui that can be launched on any platform. 
+Please check the releases page for the pydie-gui application that can be launched on any platform. 
+
+# INSTALL / RUN GUIDE
+
+Dependencies: tkinter, you can install this by typing "pip install tkinter" in your terminal or command prompt.
+
+Download the GUI file from the release section, open your Terminal or Command Prompt at the location of the GUI file, or use cd. 
+Then, once in the command prompt type the following commands depending on your platform:
+
+WINDOWS: python3 pyide-gui.py
+
+Mac: py pyide-gui.py OR python pydie-gui.py
+
+Linux: python pydie-gui.py
+
+Then, keep the command prompt or terminal open, and run whatever you desire! It should always print the result via the command prompt. 
